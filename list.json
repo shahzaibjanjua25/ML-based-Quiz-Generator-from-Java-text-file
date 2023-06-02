@@ -1,0 +1,1286 @@
+{
+    "class": [
+        "object",
+        "method",
+        "variable",
+        "interface",
+        "inheritance"
+    ],
+    "object": [
+        "class",
+        "method",
+        "variable",
+        "instance",
+        "reference"
+    ],
+    "method": [
+        "class",
+        "object",
+        "variable",
+        "function",
+        "parameter"
+    ],
+    "variable": [
+        "class",
+        "object",
+        "method",
+        "property",
+        "value"
+    ],
+    "Java": [
+        "platform independent",
+        "programming language",
+        "object-oriented",
+        "Oracle",
+        "application programming",
+        "Web programming",
+        "pure OO programming",
+        "compiled",
+        "byte code",
+        "interpreter",
+        "adoption rate"
+    ],
+    "Terminology": [
+        "Class",
+        "Method",
+        "Attribute",
+        "Interface",
+        "Package",
+        "Bytecodes",
+        "Virtual Machine"
+    ],
+    "Comments": [
+        "preprocessor",
+        "single line comments",
+        "delimited comments",
+        "object oriented",
+        "public class"
+    ],
+    "main method": [
+        "executing",
+        "void methods",
+        "program execution",
+        "output statement"
+    ],
+    "Java Development Environment": [
+        "Java JDK",
+        "editing a program",
+        "compiling a Java program",
+        "running a Java program",
+        "Integrated Development Environments",
+        "Eclipse",
+        "IntelliJ"
+    ],
+    "Java magic Byte Code": [
+        "Java compiler",
+        "machine language",
+        "Java interpreter",
+        "source program",
+        "object program",
+        "Java Virtual Machine"
+    ],
+    "Language Translation": [
+        "source program",
+        "object program",
+        "Java interpreter",
+        "bytecode",
+        "machine language",
+        "portability",
+        "small in size"
+    ],
+    "Java Program Patterns": [
+        "stand-alone applications",
+        "web-based Java applications",
+        "Applets",
+        "Servlets",
+        "Java Server Pages"
+    ],
+    "J.... confusion": [
+        "JVM",
+        "JRE",
+        "JDK",
+        "Java SDK",
+        "Java SE",
+        "J2SE",
+        "J2ME",
+        "J2EE"
+    ],
+    "Java vs C++ Language": [
+        "control structures",
+        "print commands",
+        "input commands",
+        "data types",
+        "calculations",
+        "arrays"
+    ],
+    "Object Oriented Programming": [
+        "implementation",
+        "cooperative collections",
+        "objects",
+        "classes",
+        "hierarchy",
+        "sub systems",
+        "complex system"
+    ],
+    "Classes": [
+        "class definitions",
+        "object-oriented programming",
+        "class implementation",
+        "class hierarchy",
+        "class structure"
+    ],
+    "Classes and Objects": [
+        "object instance",
+        "blue print",
+        "instances",
+        "store data",
+        "perform actions"
+    ],
+    "Java vs C++": [
+        "methods in class definition",
+        "access modifiers",
+        "semi colon",
+        "dynamic objects",
+        "garbage collector",
+        "dot operator"
+    ],
+    "Private & Public": [
+        "data members",
+        "operations",
+        "main program"
+    ],
+    "Methods and Properties": [
+        "data members",
+        "member functions",
+        "attributes",
+        "variables",
+        "operations",
+        "behaviors"
+    ],
+    "Abstraction": [
+        "class abstraction",
+        "interface abstraction",
+        "data abstraction",
+        "conceptual representation",
+        "modeling concept"
+    ],
+    "Encapsulation": [
+        "compartmentalizing",
+        "contractual interface",
+        "implementation",
+        "grouping",
+        "name",
+        "interface"
+    ],
+    "Information Hiding": [
+        "hide information",
+        "internal to encapsulation structure",
+        "public interface"
+    ],
+    "interface": [
+        "class",
+        "object",
+        "method",
+        "contract",
+        "implementation"
+    ],
+    "inheritance": [
+        "class",
+        "object",
+        "method",
+        "subclass",
+        "superclass"
+    ],
+    "instance": [
+        "class",
+        "object",
+        "variable",
+        "object",
+        "instance"
+    ],
+    "reference": [
+        "class",
+        "object",
+        "variable",
+        "pointer",
+        "reference"
+    ],
+    "function": [
+        "method",
+        "procedure",
+        "routine",
+        "subroutine",
+        "function"
+    ],
+    "parameter": [
+        "variable",
+        "argument",
+        "input",
+        "parameter",
+        "value"
+    ],
+    "property": [
+        "variable",
+        "attribute",
+        "field",
+        "property",
+        "value"
+    ],
+    "value": [
+        "variable",
+        "property",
+        "constant",
+        "value",
+        "data"
+    ],
+    "argument": [
+        "parameter",
+        "variable",
+        "value",
+        "argument",
+        "input"
+    ],
+    "pointer": [
+        "reference",
+        "variable",
+        "memory",
+        "address",
+        "pointer"
+    ],
+    "contract": [
+        "interface",
+        "agreement",
+        "contract",
+        "guarantee",
+        "obligation"
+    ],
+    "implementation": [
+        "interface",
+        "class",
+        "method",
+        "implementation",
+        "code"
+    ],
+    "subclass": [
+        "inheritance",
+        "class",
+        "superclass",
+        "child class",
+        "subclass"
+    ],
+    "superclass": [
+        "inheritance",
+        "class",
+        "subclass",
+        "parent class",
+        "superclass"
+    ],
+    "procedure": [
+        "function",
+        "method",
+        "routine",
+        "subroutine",
+        "procedure"
+    ],
+    "routine": [
+        "function",
+        "method",
+        "procedure",
+        "subroutine",
+        "routine"
+    ],
+    "subroutine": [
+        "function",
+        "method",
+        "procedure",
+        "routine",
+        "subroutine"
+    ],
+    "attribute": [
+        "property",
+        "variable",
+        "field",
+        "attribute",
+        "value"
+    ],
+    "constant": [
+        "value",
+        "variable",
+        "constant",
+        "immutable",
+        "unchanging"
+    ],
+    "data": [
+        "value",
+        "variable",
+        "data",
+        "information",
+        "input"
+    ],
+    "memory": [
+        "pointer",
+        "variable",
+        "storage",
+        "memory",
+        "location"
+    ],
+    "address": [
+        "pointer",
+        "location",
+        "memory",
+        "address",
+        "reference"
+    ],
+    "agreement": [
+        "contract",
+        "arrangement",
+        "agreement",
+        "understanding",
+        "deal"
+    ],
+    "guarantee": [
+        "contract",
+        "assurance",
+        "guarantee",
+        "warranty",
+        "promise"
+    ],
+    "obligation": [
+        "contract",
+        "duty",
+        "obligation",
+        "responsibility",
+        "commitment"
+    ],
+    "code": [
+        "implementation",
+        "program",
+        "source code",
+        "code",
+        "script"
+    ],
+    "input": [
+        "parameter",
+        "argument",
+        "data",
+        "input",
+        "value"
+    ],
+    "output": [
+        "result",
+        "output",
+        "return",
+        "response",
+        "outcome"
+    ],
+    "result": [
+        "output",
+        "return",
+        "value",
+        "result",
+        "outcome"
+    ],
+    "return": [
+        "output",
+        "result",
+        "value",
+        "return",
+        "response"
+    ],
+    "response": [
+        "output",
+        "result",
+        "return",
+        "response",
+        "answer"
+    ],
+    "compile-time": [
+        "error",
+        "compile-time",
+        "syntax",
+        "exception",
+        "bug"
+    ],
+    "run-time": [
+        "error",
+        "run-time",
+        "exception",
+        "bug",
+        "crash"
+    ],
+    "exception": [
+        "error",
+        "exception",
+        "issue",
+        "problem",
+        "failure"
+    ],
+    "checked": [
+        "exception",
+        "error",
+        "checked",
+        "runtime",
+        "unchecked"
+    ],
+    "unchecked": [
+        "exception",
+        "error",
+        "checked",
+        "runtime",
+        "unchecked"
+    ],
+    "package": [
+        "namespace",
+        "module",
+        "package",
+        "library",
+        "import"
+    ],
+    "compile-time error": [
+        "error",
+        "compile-time",
+        "syntax",
+        "exception",
+        "bug"
+    ],
+    "run-time error": [
+        "runtime exception",
+        "error at runtime",
+        "unhandled exception",
+        "exception during execution",
+        "error during program execution"
+    ],
+    "checked exception": [
+        "exception",
+        "error",
+        "checked",
+        "runtime",
+        "unchecked"
+    ],
+    "unchecked exception": [
+        "exception",
+        "error",
+        "checked",
+        "runtime",
+        "unchecked"
+    ],
+    "arrays": [
+        "collection",
+        "array",
+        "data structure",
+        "list",
+        "sequence"
+    ],
+    "static members": [
+        "static",
+        "class",
+        "members",
+        "fields",
+        "variables"
+    ],
+    "static modifiers": [
+        "static",
+        "modifiers",
+        "keywords",
+        "variables",
+        "methods"
+    ],
+    "final properties": [
+        "final",
+        "properties",
+        "constant",
+        "immutable",
+        "unchanging"
+    ],
+    "overloading": [
+        "method",
+        "overloading",
+        "overridden",
+        "polymorphism",
+        "overriding"
+    ],
+    "try": [
+        "try-catch",
+        "try block",
+        "try statement",
+        "try-catch-finally",
+        "try-catch blocks"
+    ],
+    "catch": [
+        "catch block",
+        "catch statement",
+        "catching exceptions",
+        "catching errors",
+        "catching specific exceptions"
+    ],
+    "Handle the exception": [
+        "exception handling",
+        "error handling",
+        "exception management",
+        "handling errors",
+        "exception resolution"
+    ],
+    "Throw the exception": [
+        "throw",
+        "exception throwing",
+        "raising exceptions",
+        "exception generation",
+        "exception propagation"
+    ],
+    "Inform error": [
+        "error reporting",
+        "error notification",
+        "error communication",
+        "error message",
+        "error feedback"
+    ],
+    "Corrective actions": [
+        "error correction",
+        "remedial actions",
+        "error resolution",
+        "error handling",
+        "error recovery"
+    ],
+    "try block": [
+        "try statement",
+        "error handling",
+        "try-catch block",
+        "try code block",
+        "exception handling block"
+    ],
+    "catch clause": [
+        "catch statement",
+        "exception handling",
+        "error handling",
+        "catch block",
+        "exception catch"
+    ],
+    "Multiple catch clauses": [
+        "multiple catch",
+        "catch statements",
+        "exception handling",
+        "error handling",
+        "catching multiple exceptions"
+    ],
+    "Exception type": [
+        "exception class",
+        "exception subtype",
+        "specific exception",
+        "error type",
+        "exception category"
+    ],
+    "Nested try catch block": [
+        "nested exception handling",
+        "try-catch within try-catch",
+        "nested try-catch",
+        "exception nesting",
+        "inner exception handling"
+    ],
+    "Finally block": [
+        "finally",
+        "cleanup code",
+        "final actions",
+        "post-processing",
+        "cleanup block"
+    ],
+    "throws keyword": [
+        "throws clause",
+        "exception declaration",
+        "exception throwing",
+        "error propagation",
+        "exception specification"
+    ],
+    "Checked exceptions": [
+        "compile-time exceptions",
+        "checked errors",
+        "checked error handling",
+        "checked exception types",
+        "exception verification"
+    ],
+    "Exception Subclasses": [
+        "exception inheritance",
+        "subclassed exceptions",
+        "derived exceptions",
+        "custom exception classes",
+        "exception hierarchies"
+    ],
+    "Throwable class": [
+        "exception base class",
+        "root exception",
+        "exception superclass",
+        "base throwable",
+        "exception hierarchy"
+    ],
+    "Constructors": [
+        "constructor methods",
+        "object initialization",
+        "constructor overloading",
+        "class instantiation",
+        "object creation"
+    ],
+    "Strings in Java": [
+        "string manipulation",
+        "string handling",
+        "text processing",
+        "character sequences",
+        "string operations"
+    ],
+    "String objects": [
+        "string instances",
+        "text objects",
+        "character sequences",
+        "string variables",
+        "string instances"
+    ],
+    "String Literals": [
+        "string constants",
+        "literal strings",
+        "text constants",
+        "character sequences",
+        "string values"
+    ],
+    "equals() method": [
+        "string comparison",
+        "equality checking",
+        "object equality",
+        "comparing strings",
+        "value equality"
+    ],
+    "== operator": [
+        "equality operator",
+        "comparison operator",
+        "identity operator",
+        "reference comparison",
+        "reference equality"
+    ],
+    "Immutable strings": [
+        "unchangeable strings",
+        "constant strings",
+        "unmodifiable strings",
+        "read-only strings",
+        "immutable text"
+    ],
+    "StringBuffer": [
+        "mutable strings",
+        "string manipulation",
+        "dynamic string",
+        "text modification",
+        "string buffering"
+    ],
+    "StringBuilder": [
+        "mutable strings",
+        "string manipulation",
+        "dynamic string",
+        "text modification",
+        "string building"
+    ],
+    "Java Collection Framework": [
+        "collection classes",
+        "data structures",
+        "container classes",
+        "collection hierarchy",
+        "collection APIs"
+    ],
+    "Collections in Java": [
+        "collection classes",
+        "data structures",
+        "container classes",
+        "collection hierarchy",
+        "collection management"
+    ],
+    "Interfaces": [
+        "interface types",
+        "contract classes",
+        "interface implementation",
+        "interface inheritance",
+        "abstract interfaces"
+    ],
+    "Generics": [
+        "generic programming",
+        "type parameterization",
+        "generic types",
+        "type safety",
+        "generic methods"
+    ],
+    "Collection Interface": [
+        "collection API",
+        "container interface",
+        "collection hierarchy",
+        "collection contract",
+        "collection methods"
+    ],
+    "List Interface": [
+        "list operations",
+        "ordered collection",
+        "indexed collection",
+        "list methods",
+        "list implementation"
+    ],
+    "Queue Interface": [
+        "queue operations",
+        "FIFO collection",
+        "queue methods",
+        "queue implementation",
+        "queue management"
+    ],
+    "Set Interface": [
+        "set operations",
+        "unordered collection",
+        "set methods",
+        "set implementation",
+        "set management"
+    ],
+    "Ordered collection": [
+        "sorted collection",
+        "indexed collection",
+        "sequence of elements",
+        "sorted list",
+        "ordered data structure"
+    ],
+    "Duplicate elements": [
+        "repeated elements",
+        "duplicate values",
+        "duplicated data",
+        "redundant items",
+        "repeated entries"
+    ],
+    "First In First Out (FIFO)": [
+        "queue behavior",
+        "FIFO principle",
+        "queue ordering",
+        "queue processing",
+        "first-come-first-served"
+    ],
+    "Mathematical set": [
+        "set theory",
+        "set operations",
+        "set algebra",
+        "math set properties",
+        "set manipulation"
+    ],
+    "SortedSet interface": [
+        "sorted set operations",
+        "ordered set",
+        "sorted set methods",
+        "sorted set implementation",
+        "sorted set management"
+    ],
+    "TreeSet class": [
+        "tree-based set",
+        "sorted set implementation",
+        "balanced tree set",
+        "ordered set class",
+        "tree set management"
+    ],
+    "ArrayList class": [
+        "dynamic array list",
+        "resizable array",
+        "list implementation",
+        "array-based list",
+        "list management"
+    ],
+    "Dynamic arrays": [
+        "resizable arrays",
+        "growable arrays",
+        "variable-sized arrays",
+        "size-changing arrays",
+        "flexible arrays"
+    ],
+    "Insertion and deletion": [
+        "adding and removing",
+        "modification operations",
+        "element manipulation",
+        "update and remove",
+        "data modification"
+    ],
+    "Manipulate objects": [
+        "object handling",
+        "object manipulation",
+        "object modification",
+        "object operations",
+        "object processing"
+    ],
+    "Generics usage": [
+        "generic programming usage",
+        "type parameter utilization",
+        "generic implementation",
+        "generic methods",
+        "type-safe code"
+    ],
+    "throw": [
+        "throwing exceptions",
+        "raise exception",
+        "exception throwing",
+        "throwing errors",
+        "throwing custom exceptions"
+    ],
+    "finally": [
+        "finally block",
+        "finally statement",
+        "cleanup code",
+        "post-processing",
+        "final actions"
+    ],
+    "throws": [
+        "throws clause",
+        "exception declaration",
+        "error propagation",
+        "method signature",
+        "checked exceptions"
+    ],
+    "nested try catch": [
+        "nested exception handling",
+        "nested try-catch",
+        "inner exception handling",
+        "nested try-catch blocks",
+        "nested error handling"
+    ],
+    "multiple catch clauses": [
+        "multiple catch blocks",
+        "catching multiple exceptions",
+        "catching different exceptions",
+        "multiple exception handling",
+        "exception cascading"
+    ],
+    "exception type": [
+        "exception class",
+        "specific exception",
+        "custom exception",
+        "error type",
+        "exception category"
+    ],
+    "error handling": [
+        "exception handling",
+        "error management",
+        "exception resolution",
+        "error resolution",
+        "handling runtime errors"
+    ],
+    "fix the error": [
+        "debugging",
+        "error resolution",
+        "bug fixing",
+        "troubleshooting",
+        "error debugging"
+    ],
+    "terminate program": [
+        "abort program",
+        "stop execution",
+        "end program",
+        "halt execution",
+        "program termination"
+    ],
+    "exception handler": [
+        "error handler",
+        "exception processor",
+        "error resolver",
+        "exception manager",
+        "exception controller"
+    ],
+    "exception subclasses": [
+        "subclassed exceptions",
+        "derived exceptions",
+        "custom exception classes",
+        "exception inheritance",
+        "exception hierarchy"
+    ],
+    "Throwable": [
+        "exception class",
+        "error class",
+        "base exception",
+        "root exception",
+        "exception superclass"
+    ],
+    "constructors": [
+        "constructor methods",
+        "object initialization",
+        "class instantiation",
+        "object creation",
+        "constructor overloading"
+    ],
+    "String": [
+        "text",
+        "character sequence",
+        "string data",
+        "string manipulation",
+        "string handling"
+    ],
+    "mutable strings": [
+        "modifiable strings",
+        "changeable strings",
+        "alterable strings",
+        "mutable text",
+        "modifiable character sequence"
+    ],
+    "immutable strings": [
+        "unchangeable strings",
+        "constant strings",
+        "unmodifiable strings",
+        "read-only strings",
+        "immutable text"
+    ],
+    "String literals": [
+        "string constants",
+        "literal strings",
+        "text constants",
+        "character sequences",
+        "string values"
+    ],
+    "equals()": [
+        "string comparison",
+        "equality checking",
+        "object equality",
+        "comparing strings",
+        "value equality"
+    ],
+    "==": [
+        "equality operator",
+        "comparison operator",
+        "identity operator",
+        "reference comparison",
+        "reference equality"
+    ],
+    "ArrayList": [
+        "array list",
+        "dynamic array",
+        "list implementation",
+        "resizable array",
+        "list data structure"
+    ],
+    "Array to ArrayList": [
+        "array conversion",
+        "array list transformation",
+        "converting array to list",
+        "array to list conversion",
+        "list from array"
+    ],
+    "Stack": [
+        "LIFO",
+        "stack data structure",
+        "push and pop",
+        "stack implementation",
+        "stack operations"
+    ],
+    "Queue": [
+        "FIFO",
+        "queue data structure",
+        "enqueue and dequeue",
+        "queue implementation",
+        "queue operations"
+    ],
+    "Set": [
+        "unordered collection",
+        "set data structure",
+        "unique elements",
+        "set implementation",
+        "set operations"
+    ],
+    "HashSet": [
+        "hash set implementation",
+        "unordered set",
+        "hashing",
+        "hash set data structure",
+        "set with no duplicates"
+    ],
+    "LinkedHashMap": [
+        "linked hash map implementation",
+        "ordered map",
+        "linked map",
+        "map with predictable iteration order",
+        "key-value map"
+    ],
+    "TreeSet": [
+        "tree set implementation",
+        "sorted set",
+        "balanced tree set",
+        "ordered set",
+        "tree-based set"
+    ],
+    "Maps": [
+        "map data structure",
+        "key-value pairs",
+        "dictionary",
+        "associative array",
+        "map collection"
+    ],
+    "HashMap": [
+        "hash map implementation",
+        "unordered map",
+        "hashing",
+        "hash map data structure",
+        "map with no duplicates"
+    ],
+    "key-value pairs": [
+        "key-value mapping",
+        "pair association",
+        "mapping relationship",
+        "key and value",
+        "key-value data"
+    ],
+    "Wrapper class": [
+        "primitive wrapper",
+        "boxing",
+        "wrapper object",
+        "autoboxing",
+        "unboxing"
+    ],
+    "autoboxing": [
+        "auto conversion",
+        "primitive to object",
+        "boxing",
+        "automatic type conversion",
+        "primitive wrapper"
+    ],
+    "unboxing": [
+        "auto unboxing",
+        "object to primitive",
+        "conversion to primitive",
+        "unwrapping",
+        "primitive wrapper"
+    ],
+    "type-safe": [
+        "type checking",
+        "compile-time safety",
+        "type verification",
+        "type correctness",
+        "type validation"
+    ],
+    "compile-time checking": [
+        "static checking",
+        "type checking",
+        "compile-time validation",
+        "syntax verification",
+        "code analysis"
+    ],
+    "Collection": [
+        "collection framework",
+        "container",
+        "data structure",
+        "collection hierarchy",
+        "collection interface"
+    ],
+    "type parameters": [
+        "generic type parameters",
+        "type placeholders",
+        "generic type arguments",
+        "type variables",
+        "type generics"
+    ],
+    "bounded type parameters": [
+        "type parameter bounds",
+        "type restrictions",
+        "upper bounds",
+        "lower bounds",
+        "bounded generics"
+    ],
+    "limitations in generics": [
+        "generic constraints",
+        "generic drawbacks",
+        "limitations of type parameters",
+        "restrictions in generics",
+        "generic shortcomings"
+    ],
+    "Thread": [
+        "concurrency",
+        "multithreading",
+        "threading",
+        "parallel execution",
+        "asynchronous processing"
+    ],
+    "Process": [
+        "system process",
+        "process management",
+        "process control",
+        "execution context",
+        "program execution"
+    ],
+    "Yield()": [
+        "thread scheduling",
+        "thread priority",
+        "context switching",
+        "thread relinquishing",
+        "cooperative multitasking"
+    ],
+    "Runnable state": [
+        "active state",
+        "execution state",
+        "running state",
+        "ready state",
+        "thread activity"
+    ],
+    "Waiting state": [
+        "blocked state",
+        "suspended state",
+        "passive state",
+        "sleeping state",
+        "thread pause"
+    ],
+    "Notify()": [
+        "thread signaling",
+        "wakeup call",
+        "notification mechanism",
+        "awakening threads",
+        "resume execution"
+    ],
+    "NotifyAll()": [
+        "broadcast signal",
+        "notify all threads",
+        "wakeup all threads",
+        "global notification",
+        "resuming all threads"
+    ],
+    "Daemon Threads": [
+        "background threads",
+        "service threads",
+        "system threads",
+        "non-essential threads",
+        "auto-cleanup threads"
+    ],
+    "Background threads": [
+        "secondary threads",
+        "supporting threads",
+        "non-primary threads",
+        "auxiliary threads",
+        "supplementary threads"
+    ],
+    "Garbage collection thread": [
+        "GC thread",
+        "memory management thread",
+        "automatic memory reclamation",
+        "memory cleanup thread",
+        "heap cleanup"
+    ],
+    "Java VM": [
+        "JVM",
+        "virtual machine",
+        "execution environment",
+        "runtime environment",
+        "Java interpreter"
+    ],
+    "Design patterns": [
+        "software patterns",
+        "coding patterns",
+        "development patterns",
+        "architectural patterns",
+        "best practices"
+    ],
+    "Creational patterns": [
+        "object creation patterns",
+        "class instantiation patterns",
+        "construction patterns",
+        "object generation patterns",
+        "creation mechanisms"
+    ],
+    "Structural patterns": [
+        "object composition patterns",
+        "class arrangement patterns",
+        "component relationships",
+        "object structure patterns",
+        "object assembly patterns"
+    ],
+    "Behavioral patterns": [
+        "interaction patterns",
+        "communication patterns",
+        "collaboration patterns",
+        "behavioral strategies",
+        "object behavior patterns"
+    ],
+    "Simple Factory": [
+        "basic factory",
+        "factory pattern",
+        "factory class",
+        "object creation method",
+        "creation pattern"
+    ],
+    "Factory Method": [
+        "factory design pattern",
+        "creation method",
+        "object instantiation pattern",
+        "subclass responsibility pattern",
+        "polymorphic creation"
+    ],
+    "Abstract Factory Pattern": [
+        "abstract factory design pattern",
+        "creation family pattern",
+        "factory hierarchy",
+        "interface-based factory",
+        "object creation abstraction"
+    ],
+    "Command Pattern": [
+        "action pattern",
+        "behavior encapsulation",
+        "request pattern",
+        "command object",
+        "invokable operation"
+    ],
+    "Receiver": [
+        "command recipient",
+        "action executor",
+        "operation target",
+        "command handler",
+        "object under action"
+    ],
+    "Invoker": [
+        "command invoker",
+        "request sender",
+        "action caller",
+        "command executor",
+        "command requester"
+    ],
+    "Client": [
+        "command user",
+        "invoker caller",
+        "request initiator",
+        "action requester",
+        "command consumer"
+    ],
+    "Concrete Command": [
+        "specific command",
+        "concrete implementation",
+        "command specialization",
+        "action variation",
+        "distinct command"
+    ],
+    "Bridge Pattern": [
+        "decoupling pattern",
+        "abstraction separation",
+        "abstraction delegation",
+        "implementation abstraction",
+        "interface isolation"
+    ],
+    "Template method": [
+        "behavioral template",
+        "method skeleton",
+        "algorithm outline",
+        "common behavior",
+        "step-by-step procedure"
+    ],
+    "Algorithm": [
+        "computational procedure",
+        "problem-solving process",
+        "stepwise instructions",
+        "sequence of operations",
+        "computing method"
+    ],
+    "Hooks": [
+        "extension points",
+        "customization points",
+        "callback methods",
+        "entry points",
+        "optional steps"
+    ],
+    "Subclasses": [
+        "derived classes",
+        "child classes",
+        "inherited classes",
+        "specialized classes",
+        "class extensions"
+    ],
+    "Implementation": [
+        "class implementation",
+        "method implementation",
+        "code realization",
+        "functionality realization",
+        "coding details"
+    ]
+}
