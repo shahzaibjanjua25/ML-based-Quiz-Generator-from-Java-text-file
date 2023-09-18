@@ -31,7 +31,7 @@ Are you tired of creating the same quizzes for your JAVA programming classes eve
 1. Clone this repository to your local machine.
 2. Install the required Python packages using `pip install -r requirements.txt`.
 3. Run the GUI application using `python GUi.py`.
-4. Select your JAVA lecture notes, generate MCQs, and download them for your classes.
+4. Select your JAVA lecture notes, generate MCQs, and download them for your classes.\n
 **If you find it interesting, feel free to check out the code and contribute to my project**
 
 
