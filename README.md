@@ -18,13 +18,13 @@ Are you tired of creating the same quizzes for your JAVA programming classes eve
 
 ## How it Works
 
-1. **Text Processing:** We use NLTK to tokenize sentences and scikit-learn's CountVectorizer to extract relevant keywords from your JAVA lecture notes.
+1. **Text Processing:** I used NLTK to tokenize sentences and scikit-learn's CountVectorizer to extract relevant keywords from your JAVA lecture notes.
 
-2. **Keyword Extraction:** Our keyword processor, powered by the FlashText library, efficiently extracts keywords from the text.
+2. **Keyword Extraction:** My keyword processor, powered by the FlashText library, efficiently extracts keywords from the text.
 
 3. **MCQ Generation:** The AI generates MCQs for Java Object-Oriented Programming (OOP) by mapping keywords to sentences and replacing them with blanks. Distractors for each keyword are loaded from a JSON file.
 
-4. **User-Friendly GUI:** We've created an intuitive user interface using PyQt5. You can select a text file, generate MCQs with a click, and download the result.
+4. **User-Friendly GUI:** I've created an intuitive user interface using PyQt5. You can select a text file, generate MCQs with a click, and download the result.
 
 ## Try It Out
 
